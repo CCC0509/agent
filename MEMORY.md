@@ -20,7 +20,9 @@
 - Superpowers plugin (從 GitHub 安裝)
 
 ## 子專案清單
-（尚未建立任何子專案）
+| 專案名稱 | 路徑 | Repo |
+|---------|------|------|
+| stock-investor | `projects/stock-investor/` | https://github.com/CCC0509/stock-investor |
 
 ## 新專案建立規範
 每個新專案需獨立資料夾與 Repo：
