@@ -1,0 +1,32 @@
+# 依賴
+node_modules/
+.pnp
+.pnp.js
+
+# 構建產出
+dist/
+build/
+*.log
+
+# 環境變數
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 快取
+.cache/
+*.cache
+
+# 臨時檔案
+tmp/
+temp/
